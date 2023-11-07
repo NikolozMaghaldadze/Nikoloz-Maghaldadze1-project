@@ -1,2 +1,2 @@
-# Nikoloz-Maghaldadze1-project
+# Nikoloz-Maghaldadze
 Project for unilab
